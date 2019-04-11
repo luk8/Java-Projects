@@ -2,9 +2,6 @@
 // Also included code to close the application when the user
 // clicks the mouse in the close box.
 
-// Written by Wayne Pollock, Tampa, FL USA, 1999
-// Modified by Luksonne Zetrenne, Tampa, FL USA, 2018
-
 import java.awt.*;
 import java.awt.event.*;
 

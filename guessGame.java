@@ -3,9 +3,6 @@
 // If the user is unable to guess the number after four tries, the user loses and is asked if they would like to play again.
 // If the user guesses the correct number, the user is notified as being correct and is asked if they would like to play again.
 
-// Written by Wayne Pollock, Tampa, FL USA, 1999
-// Modified by Luksonne Zetrenne, Tampa, FL USA, 2018
-
 // Packages to be called
 
 import java.util.Random;

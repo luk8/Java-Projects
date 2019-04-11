@@ -4,8 +4,6 @@
  * that formats a number by adding leading space.
  *
  * @author Luksonne Zetrenne
- * @version 1.0
- * @published 11-15-2018
  *
  */
 
